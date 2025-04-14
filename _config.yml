@@ -44,7 +44,9 @@ address:
   - line: India
 
 # Credits content
-credits: ''
+contact: |
+  +91 9920190044
+  townbazaartaloja@gmail.com
 
 # Build settings
 markdown: kramdown
