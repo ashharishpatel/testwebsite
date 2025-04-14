@@ -1,10 +1,14 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+img: food.jpeg
 alt: image-alt
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Food Products
+category: Food Products
+description: |
+    Delicious, convenient, and ready when you are—our packed food collection brings comfort and flavor straight to your table. Whether you're stocking up on everyday staples or looking for quick meal solutions, we've curated a range of high-quality options to suit every taste and lifestyle.
+
+    From snacks and ready-to-eat meals to health-conscious picks and gourmet treats, our selection is sourced from trusted brands known for freshness, quality, and authenticity. Perfect for busy days, spontaneous cravings, or simply enjoying your favorite foods with ease.
+
+    Because good food should always be within reach.
 ---

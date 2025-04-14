@@ -1,10 +1,14 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+img: homecare.jpg
 alt: image-alt
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Home Care
+category: Home Products
+description: |
+    A clean, fresh, and welcoming home starts with the right care. Our home care collection offers everything you need to keep your space spotless, organized, and comfortable—effortlessly.
+
+    From powerful cleaning solutions and laundry essentials to air fresheners and surface disinfectants, we stock trusted brands that combine effectiveness with safety. Whether you're doing a deep clean or daily upkeep, our products are designed to make home care simple, efficient, and satisfying.
+
+    Because a well-cared-for home brings peace of mind.
 ---

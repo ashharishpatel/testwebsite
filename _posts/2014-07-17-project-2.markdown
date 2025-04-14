@@ -1,10 +1,14 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+img: cosmetics.jpg
 alt: image-alt
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Cosmetics
+category: Cosmetics
+description: |
+    Unleash your creativity and express your unique beauty with our premium cosmetics range. From everyday essentials to bold statement pieces, our collection is designed to inspire confidence and enhance your natural features.
+
+    Explore a wide variety of high-performance products—foundation, lipsticks, eyeshadows, blushes, and more—from trusted brands known for quality, innovation, and inclusivity. Whether you're going for a subtle glow or a full glam look, we have everything you need to bring your vision to life.
+
+    Because beauty is personal—and your makeup should be too.
 ---

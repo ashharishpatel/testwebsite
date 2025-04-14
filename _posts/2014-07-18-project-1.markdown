@@ -1,10 +1,14 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+img: skincare.jpeg
 alt: image-alt
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Skin Care
+category: Personal Hygiene
+description: | 
+    Discover radiant, healthy skin with our curated skincare collection. From daily essentials to targeted treatments, our products are designed to nourish, protect, and rejuvenate every skin type. Whether you're tackling dryness, breakouts, signs of aging, or just looking to maintain a natural glow, we've got something for everyone.
+    
+    We partner with trusted brands that use high-quality, dermatologist-approved ingredients—ensuring your skin gets the care it deserves. Explore cleansers, moisturizers, serums, sunscreens, and more, all crafted to elevate your skincare routine.
+
+    Because great skin starts with great care.
 ---
